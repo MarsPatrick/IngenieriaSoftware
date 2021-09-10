@@ -1,0 +1,31 @@
+body{
+	background: lightgray;
+}
+header{
+	background: red;
+	text-align: center;
+	border-top: 4px dashed green;
+	border-right:  4px dotted yellow;
+	border-bottom: 4px groove black;
+	border-left: 4px double white;
+}
+#contenido{
+	widht: 70%;
+	margin: 0px auto;
+	border: 1px solid red;
+}
+#reloj{
+	color: red;
+	font-size: 300%;
+	text-align: center;
+}
+#fecha{
+	color: green;
+	text-align: right;
+}
+#id2{
+	color: blue;
+}
+.class0{
+	color: lime;
+}
