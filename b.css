@@ -3,11 +3,15 @@ body{
 }
 header{
 	background: red;
-	text-align: center;
 	border-top: 4px dashed green;
 	border-right:  4px dotted yellow;
 	border-bottom: 4px groove black;
 	border-left: 4px double white;
+}
+#logo{
+	width: 20%;
+}
+#titulo{
 }
 #contenido{
 	widht: 70%;
@@ -16,12 +20,15 @@ header{
 }
 #reloj{
 	color: red;
-	font-size: 300%;
+	font-size: 100%;
 	text-align: center;
 }
 #fecha{
 	color: green;
 	text-align: right;
+}
+#fechas{
+	display: table;
 }
 #id2{
 	color: blue;
